@@ -27,14 +27,15 @@ Open a command prompt or terminal window
 ```
 
 ```
-Navigate to the extracted folder's 'dist' folder using the 'cd' command. For example, if you extracted the folder onto your desktop, you would type the following:
-> cd Users\[USER]\Desktop\DiceGame\dist
+Navigate to the extracted folder's 'dist' folder using the 'cd' command. For example, if you extracted the 
+folder onto your desktop, you would type the following:
 ```
+> cd Users\[USER]\Desktop\DiceGame\dist
 
 ```
 Type the below command to run the JAR file
->java -jar "DiceGame.jar"
 ```
+> java -jar "DiceGame.jar"
 
 **Example of Program**
 ```
