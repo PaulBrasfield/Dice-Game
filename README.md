@@ -11,7 +11,7 @@ Java SE Development Kit 8 (JDK 8) and Java Runtime Envrionment 8 (JRE 8) or high
 ### Installing
 
 ```
-Click on 'Clone or Download' in the top right
+Click on 'Code' in the top right
 ```
 
 ```
